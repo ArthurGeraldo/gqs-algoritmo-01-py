@@ -22,3 +22,8 @@
   Teste 1: False
   Teste 2: True
   ```
+  
+## Sobre o Autor
+**Nome:** Arthur Geraldo Santos Silva
+**Disciplina:** Garantia da Qualidade de Software
+**Professor:** Daniel Henrique Matos de Paiva
