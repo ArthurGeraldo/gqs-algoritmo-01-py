@@ -24,6 +24,6 @@
   ```
   
 ## Sobre o Autor
-**Nome:** Arthur Geraldo Santos Silva
-**Disciplina:** Garantia da Qualidade de Software
+**Nome:** Arthur Geraldo Santos Silva  
+**Disciplina:** Garantia da Qualidade de Software  
 **Professor:** Daniel Henrique Matos de Paiva
