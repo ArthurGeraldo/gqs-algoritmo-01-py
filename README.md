@@ -3,8 +3,20 @@
 - Este código é um identificador de palíndromo, sua função é verificar se a frase pode ser lida da mesma forma lenda a partir da esquerda ou da direita. Caso a frase seja um palíndromo, o retorno no terminal será *True*, se não, será *False*.
 ## qual é o propósito principal da classe DesafioLogica.
 - 
-## Como executar? Forneça o passo a passo exato utilizando o terminal/linha de comando (javac para compilar e java para executar).
-- 
+## Como executar? 
+###### É necessário ter o Python instalado no seu computador para que o comando funcione.
+1. Clique no botão verde "Code" na página do repositório e selecione "Download ZIP".
+2. Extraia a pasta baixada no local de sua preferência.
+3. Abra o terminal (ou prompt de comando) do seu sistema.
+4. Navegue até a pasta extraída usando o comando:
+  ```
+  cd caminho/para/a/sua/pasta
+  ```
+5. Execute o arquivo digitando:
+  ```
+  python desafiologica.py
+  ```
+
 ## Exemplo de saída: Documente exatamente o que o console exibe quando o programa é executado (atenção aos resultados reais dos testes!).
 - Ao executar o programa, você deve obter o seguinte retorno:
   ```
