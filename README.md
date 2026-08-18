@@ -1,8 +1,7 @@
 # gqs-algoritmo-01-py
 ## O que o código faz? 
 - Este código é um identificador de palíndromo, sua função é verificar se a frase pode ser lida da mesma forma lenda a partir da esquerda ou da direita. Caso a frase seja um palíndromo, o retorno no terminal será *True*, se não, será *False*.
-## qual é o propósito principal da classe DesafioLogica.
-- 
+  
 ## Como executar? 
 ###### É necessário ter o Python instalado no seu computador para que o comando funcione.
 1. Clique no botão verde "Code" na página do repositório e selecione "Download ZIP".
